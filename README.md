@@ -3,12 +3,7 @@
 This is a personal portfolio website for **Shivam Gaur**, a BCA student and **MERN Stack Developer**.  
 It showcases skills, featured projects, and provides quick links to your profiles.
 
-## View Demo
-
-You can view the live demo of this portfolio here:  
-`https://dev-shivamgaur.github.io/portfolio/`  
-
-> Replace the URL above with your actual deployed link (e.g. GitHub Pages, Vercel, Netlify).
+## [View Demo](https://dev-shivamgaur.github.io/portfolio/)  
 
 ## Features
 
